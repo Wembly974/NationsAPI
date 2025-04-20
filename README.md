@@ -1,5 +1,5 @@
 # NationsAPI
-![NationsAPI Logo]([https://via.placeholder.com/150x150](https://261929.site.bot-hosting.net/api/img/admin_title.png))
+![NationsAPI Logo](https://261929.site.bot-hosting.net/api/img/admin_title.png))
 
 * Our simple API service is a branch from NationsBot 
 * NationsBot is 'NationsGlory Bot' in the English language made for the English talkers in NationsGlory servers
